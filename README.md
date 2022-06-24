@@ -10,3 +10,6 @@ Due to lack of time had to get on with the UI creation.
 
 Has been developed in a scalable way where we can branch out and separate out the web api and UI and push them into separate projects.
 More modules can be added for other sports
+
+Improvements: have used Convert.toint32 instead of tryparse
+use cqrs or breakdown into multiple services
